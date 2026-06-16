@@ -10,11 +10,11 @@ Bạn có thể thay các đường dẫn ảnh bên dưới bằng ảnh LCD th
 
 | Hiển thị tiếng Việt | Hiển thị nhiệt độ |
 | --- | --- |
-| ![LCD hiển thị tiếng Việt có dấu](img/a1.jpg) | ![LCD hiển thị nhiệt độ với ký hiệu độ C](img/a2.jpg) |
+| ![LCD hiển thị tiếng Việt có dấu](img/a1.jpg) | ![LCD hiển thị nhiệt độ với ký hiệu độ C](img/a3.jpg) |
 
-| Hiển thị nhiều dấu | Ví dụ ứng dụng thực tế |
+| Hiển thị nhiều dấu | In chữ xin chào Việt Nam |
 | --- | --- |
-| ![LCD hiển thị nhiều ký tự tiếng Việt](img/a3.jpg) | ![LCD dùng trong ứng dụng Arduino](img/a4.jpg) |
+| ![LCD hiển thị nhiều ký tự tiếng Việt](img/a2.jpg) | ![LCD dùng trong ứng dụng Arduino](img/a4.jpg) |
 
 ## Tính Năng Chính
 
