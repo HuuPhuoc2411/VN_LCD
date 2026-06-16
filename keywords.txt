@@ -1,0 +1,16 @@
+VN_LCD	KEYWORD1
+begin	KEYWORD2
+setI2CPins	KEYWORD2
+setAddress	KEYWORD2
+setGeometry	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+setCursor	KEYWORD2
+print	KEYWORD2
+printVietnamese	KEYWORD2
+printAt	KEYWORD2
+clearVietnameseCache	KEYWORD2
+backlight	KEYWORD2
+noBacklight	KEYWORD2
+setBacklight	KEYWORD2
+createChar	KEYWORD2
