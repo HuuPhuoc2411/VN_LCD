@@ -1,5 +1,5 @@
 # VN_LCD
-[![Arduino Library](https://www.ardu-badge.com/badge/VN_LCD.svg)](http://downloads.arduino.cc/libraries/logs/github.com/HuuPhuoc2411/VN_LCD/)
+[![Arduino Library](https://www.ardu-badge.com/badge/VN_LCD.svg)](https://www.ardu-badge.com/VN_LCD)
 <br>
 `VN_LCD` là thư viện Arduino cho màn hình LCD ký tự 16x2 dùng chip HD44780 và module I2C PCF8574. Thư viện tập trung vào một việc chính: cho phép bạn truyền trực tiếp chuỗi tiếng Việt UTF-8 có dấu vào `lcd.print()` và hiển thị lên LCD 16x2 theo cách dễ đọc nhất trong giới hạn 5x8 pixel của mỗi ô ký tự.
 
